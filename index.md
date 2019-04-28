@@ -1,6 +1,6 @@
 ## Check in flow
 
-_C/S - Posit - (IFR) - Alt_
+_Asset: C/S - Posit - (IFR) - Alt_
 
 * **(AUTH) - RADAR/IDENT - QNH**
 * **IFF (SWEET/SOUR)**
@@ -10,6 +10,35 @@ _C/S - Posit - (IFR) - Alt_
 * **WORKING FREQ**
 * _TRANSFER CONTROL_
 
+## Retasking
+
+* **TASK / MISSION**
+* **LOCATION**
+* **ENY SITUATION (TARGET)**
+* **THREAT**
+* **FRIENDLIES**
+* **CONTROL (SCAR, WD)**
+* **ORDNANCE (RESTRICTION/REQUEST)**
+* **REMARKS**
+
+## Check out
+
+_Asset: C/S - POSIT - REC.BASE/TYPE_
+_Asset: PLAYTIME - ORDNANCE REM._
+
+* **RECOVERY INSTRUCTIONS**
+* **PIDGEON - MRR**
+* **BASE STATUS (VFR/IFR, RWY)**
+* **CHECK INFLT-RPT**
+
+## AAR Request
+
+* **TKR C/S + BRAA**
+* **CONFIG (BASKET / BOOM)**
+* **REFUEL ALTITUDE**
+* **REFUELING FREQUENCY**
+* **YARDSTICK**
+* **REMARKS**
 
 
 ## Brevity TASK
@@ -48,7 +77,7 @@ _C/S - Posit - (IFR) - Alt_
 
 ## Brevity General
 
-* **FATHER** - Shipboard  tactical  air  navigation  (TACAN)  station.
+* FATHER - Shipboard  tactical  air  navigation  (TACAN)  station.
 * FURBALL - Response  to  a  DECLARE  request  indicating  known  bandits  and  friendlies  inclose  proximity.
 * HEADS  UP - Alert  of  an  activity  of  interest.
 * KNOCK-IT-OFF - Directive  call  to  cease  air  combat maneuvers/attacks/activities.
