@@ -24,6 +24,7 @@ _Asset: C/S - Posit - (IFR) - Alt_
 ## Check out
 
 _Asset: C/S - POSIT - REC.BASE/TYPE_
+
 _Asset: PLAYTIME - ORDNANCE REM._
 
 * **RECOVERY INSTRUCTIONS**
@@ -40,6 +41,8 @@ _Asset: PLAYTIME - ORDNANCE REM._
 * **YARDSTICK**
 * **REMARKS**
 
+! [BRAA](BRAA.PNG)
+! [BULLS](BULLS.PNG)
 
 ## Brevity TASK
 
