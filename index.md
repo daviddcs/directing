@@ -1,3 +1,5 @@
+[BIGBOARD](BIG_BOARD_C2.png)
+
 ## Check in flow
 
 _Asset: C/S - Posit - (IFR) - Alt_
