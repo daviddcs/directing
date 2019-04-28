@@ -1,4 +1,4 @@
-[BIGBOARD](BIG_BOARD_C2.png)
+[BIGBOARD as pdf](BIG_BOARD_C2.pdf)
 
 ## Check in flow
 
@@ -43,8 +43,6 @@ _Asset: PLAYTIME - ORDNANCE REM._
 * **YARDSTICK**
 * **REMARKS**
 
-![BRAA](BRAA.PNG)
-![BULLS](BULLS.PNG)
 
 ## Brevity TASK
 
