@@ -1,4 +1,28 @@
-index.md
+## Check in flow
+
+_C/S - Posit - (IFR) - Alt_
+
+* **(AUTH) - RADAR/IDENT - QNH
+* IFF (SWEET/SOUR)
+* PICTURE
+* LOWDOWN
+* STATUS SUPPORTING ASSETS
+* WORKING FREQ**
+* _TRANSFER CONTROL_
+
+
+
+## Brevity TASK
+
+* CUTOFF - Request  for,  or  directive  to,  intercept  using  cutoff  geometry.
+* DELOUSE - Directive  call  to  detect,  identify,  and  engage  (if  required)  unknown  aircraft trailing  friendly  aircraft.
+* DEPLOY - Directive  call  for  the  flight  to  maneuver  to  briefed  positioning.
+* FLOW - Directive  call  to  fly  stated  heading.
+* KILL - 1.(U)    Directive  call  to  fire  on  designated  target.
+* MARSHAL(ING) - Establish(ed)  at  a  specific  point.
+* ID - Directive  call  to  identify  the  target;  also  aircrew  identification accomplished,  followed by type  aircraft  or  "FRIENDLY/HOSTILE."
+* MONITOR(ING) - Maintain  radar  awareness  on  specified  group.
+* GREEN - (w/cardinal  direction)—Direction  determined  to  be  clearest  of  enemy  A/A  activity.
 
 ## Brevity TRACK
 
@@ -22,7 +46,7 @@ index.md
 * PINCE  -Threat  maneuvering  for  a  bracket  attack.
 
 
-# Brevity General
+## Brevity General
 
 * **FATHER** - Shipboard  tactical  air  navigation  (TACAN)  station.
 * FURBALL - Response  to  a  DECLARE  request  indicating  known  bandits  and  friendlies  inclose  proximity.
@@ -39,17 +63,6 @@ index.md
 (freq)
 * POGO  (freq) - Switch  to  communication  channel  number  preceding  POGO. If  unable to  establish  communications,  switch  to  channel  number  following  POGO.    If  no  channel  number follows  POGO,  return  to  this  channel.
 
-## Brevity TASK
-
-* CUTOFF - Request  for,  or  directive  to,  intercept  using  cutoff  geometry.
-* DELOUSE - Directive  call  to  detect,  identify,  and  engage  (if  required)  unknown  aircraft trailing  friendly  aircraft.
-* DEPLOY - Directive  call  for  the  flight  to  maneuver  to  briefed  positioning.
-* FLOW - Directive  call  to  fly  stated  heading.
-* KILL - 1.(U)    Directive  call  to  fire  on  designated  target.
-* MARSHAL(ING) - Establish(ed)  at  a  specific  point.
-* ID - Directive  call  to  identify  the  target;  also  aircrew  identification accomplished,  followed  bytype  aircraft  or  "FRIENDLY/HOSTILE."
-* MONITOR(ING) - Maintain  radar  awareness  on  specified  group.
-* GREEN - (w/cardinal  direction)—Direction  determined  to  be  clearest  of  enemy  A/A  activity.
 
 ## Brevity FIGHTER
 
