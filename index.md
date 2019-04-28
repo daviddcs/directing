@@ -24,9 +24,9 @@ PINCE  -Threat  maneuvering  for  a  bracket  attack.
 
 # Brevity General
 
-FATHER - Shipboard  tactical  air  navigation  (TACAN)  station.
-FURBALL - Response  to  a  DECLARE  request  indicating  known  bandits  and  friendlies  inclose  proximity.
-HEADS  UP - Alert  of  an  activity  of  interest.
+* FATHER - Shipboard  tactical  air  navigation  (TACAN)  station.
+* FURBALL - Response  to  a  DECLARE  request  indicating  known  bandits  and  friendlies  inclose  proximity.
+* HEADS  UP - Alert  of  an  activity  of  interest.
 KNOCK-IT-OFF - Directive  call  to  cease  air  combat maneuvers/attacks/activities.
 LOWDOWN - A  request  to  provide  tactical  ground  information  pertinent  to  the  mission  in  a digital  bullseye  format. 
 LEAN (direction) - Directive/informative  call  to  maneuver  in  a  direction  to  avoid  the  threat.
